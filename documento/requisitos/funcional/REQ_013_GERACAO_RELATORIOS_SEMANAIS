@@ -1,0 +1,22 @@
+## Requisito Funcional: RF-013 - Geração de relatórios semanais
+
+### Descrição
+
+O sistema deve gerar relatórios semanais para os administradores contendo dados sobre volume de resíduos coletados por tipo, frequência de uso dos locais de coleta e ranking de usuários.
+
+- **Autor do Requisito:** Davi Duarte
+- **Status:** Aprovado
+- **Origem/Fonte:** Questionário público
+
+### Justificativa
+
+Fornecer aos administradores uma visão consolidada e periódica do uso do sistema, permitindo a análise de tendências, a tomada de decisões estratégicas e a otimização da logística de coleta.
+
+### Critérios de Aceitação
+
+- A cada segunda-feira, um novo relatório referente à semana anterior deve ser gerado automaticamente.
+- O relatório deve conter gráficos para o volume de resíduos por tipo.
+- O relatório deve listar os locais de coleta em ordem decrescente de utilização.
+- O relatório deve ser acessível apenas para usuários com perfil de administrador e deve permitir a exportação para PDF.
+
+- **Prioridade:** Alta
