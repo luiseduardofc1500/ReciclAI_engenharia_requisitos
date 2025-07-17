@@ -1,0 +1,21 @@
+## Requisito: Interface Direta
+
+- **Categoria:** Facilita Aprendizado
+- **Autor do Requisito:** Davi Duarte
+- **Status:** Aprovado
+- **Origem/Fonte:** Equipe
+
+### Justificativa
+
+Reduzir a curva de aprendizado e garantir que usuários de diferentes níveis de habilidade digital possam utilizar o sistema eficientemente desde o primeiro uso.
+
+### Critérios de Aceitação
+
+- Um usuário novo deve ser capaz de realizar um registro de descarte em menos de 5 minutos, sem necessidade de treinamento prévio.
+- A taxa de sucesso para completar tarefas essenciais por novos usuários deve ser superior a 90%.
+
+- **Prioridade:** Essencial
+
+### Descrição
+
+O sistema deve permitir que novos usuários concluam tarefas básicas em até 5 minutos após o primeiro contato, com uma interface simples e acessível.
