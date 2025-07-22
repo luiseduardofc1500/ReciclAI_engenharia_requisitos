@@ -6,7 +6,7 @@ O sistema deve apresentar um painel educativo sobre a separação e reciclagem d
 
 - **Autor do Requisito:** Anderson Neto
 - **Status:** Aprovado
-- **Origem/Fonte:** Equipe
+- **Origem/Fonte:** Stackholder e professora
 
 ### Justificativa
 
