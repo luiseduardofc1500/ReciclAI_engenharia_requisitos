@@ -17,4 +17,4 @@ Manter o usuário informado sobre o andamento de operações demoradas, reduzind
 
 ### Descrição
 
-O sistema deve exibir uma barra de prog
+O sistema deve exibir uma barra de progresso durante o carregamento de dados.
